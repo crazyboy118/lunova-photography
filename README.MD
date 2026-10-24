@@ -1,6 +1,5 @@
 📸 Lunova Photography
 
-
 Lunova Photography is a responsive photography website built with HTML, CSS, and JavaScript. It features a clean layout, visual content, and interactive elements designed to provide a smooth browsing experience.
 
 ✨ Features
